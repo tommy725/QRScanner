@@ -41,6 +41,7 @@ Thumbs.db
 # Eclipse project files
 .classpath
 .project
+/uploads
 /build
 
 

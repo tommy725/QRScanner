@@ -11,7 +11,8 @@ https://play.google.com/store/apps/details?id=com.trendmicro.qrscan
 • Zero 3rd party advertisements
 • Scan from live camera or saved images
 • Scan bar-codes and search products quickly
-• Scan QR codes of texts, contacts, WiFi, locations, etc.
+• Scan QR codes of texts, contacts, WiFi, locations and etc.
+
 
 # Screen shots
 
