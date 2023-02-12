@@ -3,7 +3,7 @@ Trend Micro™ QR Scanner provides the highest quality URL safety checks on all 
 
 # URL
 https://play.google.com/store/apps/details?id=com.trendmicro.qrscan
-
+ 
 # Features
 • Scan QR codes quickly and safely
 • Dangerous websites are blocked and reported instantly
